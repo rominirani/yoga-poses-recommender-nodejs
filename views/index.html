@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yoga Pose Search</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .loading {
+            cursor: wait;
+        }
+        .loading * {
+            pointer-events: none; /* Disable clicks on elements while loading */
+        }
+         .loading #resultsContainer::before {
+            content: "";
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            border: 5px solid #f3f3f3; /* Light grey */
+            border-top: 5px solid #3498db; /* Blue */
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            animation: spin 2s linear infinite;
+         }
+         @keyframes spin {
+            0% { transform: translate(-50%, -50%) rotate(0deg); }
+            100% { transform: translate(-50%, -50%) rotate(360deg); }
+        }
+    </style>
+</head>
+<body class="bg-gray-100">
+    <div class="container mx-auto p-4">
+        <h1 class="text-3xl font-bold mb-4 text-center">Yoga Pose Search</h1>
+        <form id="searchForm" class="mb-4">
+            <div class="mb-4">
+                <label for="prompt" class="block text-gray-700 text-sm font-bold mb-2">Enter your search prompt:</label>
+                <input type="text" id="prompt" name="prompt" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" placeholder="e.g., exercises for back pain">
+                <p id="promptError" class="text-red-500 text-xs italic hidden">Please enter a prompt.</p>
+            </div>
+            <div class="text-center">
+                <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Search</button>
+            </div>
+        </form>
+         <div id="resultsContainer" class="mt-4 flex flex-wrap justify-center relative">
+            <!-- Results will be displayed here -->
+        </div>
+    </div>
+
+    <script>
+        const searchForm = document.getElementById('searchForm');
+        const promptInput = document.getElementById('prompt');
+        const promptError = document.getElementById('promptError');
+        const resultsContainer = document.getElementById('resultsContainer');
+        const body = document.body;
+
+        searchForm.addEventListener('submit', function(event) {
+            event.preventDefault();
+
+            const promptValue = promptInput.value.trim();
+            if (!promptValue) {
+              promptError.classList.remove("hidden");
+              return;
+            }
+             promptError.classList.add("hidden");
+
+
+            body.classList.add('loading'); // Add loading class
+             resultsContainer.innerHTML = ''; // Clear previous results and show loading indicator
+
+
+            fetch('/search', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ prompt: promptValue })
+            })
+            .then(response => response.json())
+            .then(data => {
+                body.classList.remove('loading'); // Remove loading class
+                if (data.error) {
+                    console.error("Error from API:", data.error);
+                    resultsContainer.innerHTML = `<p class="text-red-500">Error: ${data.error}</p>`;
+
+                } else if (data.results && data.results.length > 0) {
+                   displayResults(data.results)
+                } else {
+                    resultsContainer.innerHTML = `<p>No results found.</p>`;
+                }
+            })
+            .catch(error => {
+                body.classList.remove('loading'); // Remove loading class
+                console.error("Fetch error:", error);
+                resultsContainer.innerHTML = `<p class="text-red-500">An error occurred during the search.</p>`;
+            });
+        });
+
+        function displayResults(results) {
+            resultsContainer.innerHTML = ''; // Clear previous results
+             results.forEach(result => {
+                const card = document.createElement('div');
+                card.className = 'max-w-sm rounded overflow-hidden shadow-lg m-2 bg-white';
+                const imageUrl = result.photo_url; 
+                 card.innerHTML = `
+                    <div class="px-6 py-4">
+                     ${imageUrl ? `<img class="w-full h-full object-cover mb-4" src="${imageUrl}" alt="${result.name || 'Yoga Pose'}" />` : ''}
+                        <div class="font-bold text-xl mb-2">${result.name || 'N/A'}</div>
+                        <p class="text-gray-700 text-base">
+                            ${result.description || 'N/A'}
+                        </p>
+                         <div class="mt-2">
+                             <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">Expertise: ${result.expertise_level || 'N/A'}</span>
+                             ${result.pose_type ? result.pose_type.map(type => `<span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">${type}</span>`).join('') : '<span>N/A</span>'}
+                         </div>
+                         <button class="mt-4 bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline" onclick="generateAndPlayAudio('${encodeURIComponent(result.description)}')">Play Audio</button>
+                    </div>
+                `;
+                resultsContainer.appendChild(card);
+            });
+        }
+
+        async function generateAndPlayAudio(description) {
+            try {
+                const response = await fetch('/generate_audio', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ description })
+                });
+
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+
+                const audioBlob = await response.blob();
+                const audioUrl = URL.createObjectURL(audioBlob);
+                const audio = new Audio(audioUrl);
+                audio.play();
+            } catch (error) {
+                console.error('Error generating or playing audio:', error);
+                alert('Error generating audio. Please try again later.');
+            }
+        }
+    </script>
+</body>
+</html>
