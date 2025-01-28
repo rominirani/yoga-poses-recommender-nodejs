@@ -1,0 +1,1142 @@
+[
+ {
+    "name": "Big Toe Pose",
+    "sanskrit_name": "Padangusthasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/ForwardBendBigToe.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Standing", "Forward Bend"]
+  },
+  {
+    "name": "Gorilla Pose",
+    "sanskrit_name": "Padahastasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Gorilla.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Standing", "Forward Bend"]
+  },
+  {
+    "name": "Bird of Paradise Pose",
+    "sanskrit_name": "Svarga Dvijasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/ChairTwistBindUp_L.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Standing", "Balancing"]
+  },
+  {
+    "name": "Revolved Bird of Paradise Pose",
+    "sanskrit_name": "Parivritta Svarga Dvijasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/BirdOfParadiseRevolved_R.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Standing", "Balancing"]
+  },
+    {
+    "name": "Upward Salute",
+    "sanskrit_name": "Urdhva Hastasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/MountainSalute.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Standing"]
+  },
+  {
+    "name": "Chair Pose",
+    "sanskrit_name": "Utkatasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Chair.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Standing", "Balancing"]
+  },
+  {
+    "name": "High Lunge Pose",
+    "sanskrit_name": "Ashta Chandrasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/LungeCrescent_L.png",
+    "expertise_level": "",
+    "pose_type": ["Standing", "Balancing"]
+  },
+  {
+    "name": "Low Lunge Pose",
+    "sanskrit_name": "Anjaneyasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/WarriorIKneeling_L.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Standing", "Balancing"]
+  },
+  {
+    "name": "Eagle Pose",
+    "sanskrit_name": "Garudasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Eagle_R.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Standing", "Balancing"]
+  },
+  {
+    "name": "Standing Foot Behind the Head Pose",
+    "sanskrit_name": "Durvasasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/StandingFootBehindHead_R.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Standing", "Balancing"]
+  },
+  {
+    "name": "Standing Foot to Head Pose",
+    "sanskrit_name": "Trivikramasana A",
+    "photo_url": "https://pocketyoga.com/assets/images/full/TrivikramaI_L.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Standing", "Balancing"]
+  },
+  {
+    "name": "Standing Foot Behind the Head Forward Bend Pose",
+    "sanskrit_name": "Richikasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/StandingForwardBendFootBehindHead_R.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Standing", "Forward Bend"]
+  },
+  {
+    "name": "Half Standing Forward Bend Pose",
+    "sanskrit_name": "Ardha Uttanasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/ForwardBendHalfWay.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Standing", "Forward Bend"]
+  },
+  {
+    "name": "Standing Forward Bend Pose",
+    "sanskrit_name": "Uttanasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/ForwardBend.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Standing", "Forward Bend"]
+  },
+  {
+    "name": "Standing Half Bound Lotus Forward Bend Pose",
+    "sanskrit_name": "Ardha Baddha Padmottanasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/StandingForwardBendHalfLotus_R.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Standing", "Forward Bend"]
+  },
+  {
+    "name": "Goddess Pose",
+    "sanskrit_name": "Utkata Konasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Goddess_L.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Standing"]
+  },
+  {
+    "name": "Half Moon Pose",
+    "sanskrit_name": "Ardha Chandrasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/HalfMoon_L.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Standing", "Balancing"]
+  },
+  {
+    "name": "Revolved Half Moon Pose",
+    "sanskrit_name": "Parivritta Ardha Chandrasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/HalfMoonRevolved_L.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Standing", "Balancing"]
+  },
+  {
+    "name": "Extended Standing Hand to Big Toe Pose",
+    "sanskrit_name": "Utthita Hasta Padangushthasana B",
+    "photo_url": "https://pocketyoga.com/assets/images/full/StandingHandToToeExtended_L.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Standing", "Balancing"]
+  },
+  {
+    "name": "Revolved Standing Hand to Big Toe Pose",
+    "sanskrit_name": "Parivritta Hasta Padangushthasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/StandingHandToToeRevolved_L.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Standing", "Balancing"],
+    "followup_poses" : ["Utthita Hasta Padangushthasana", "Ardha Chandrasana", "Virabhadrasana C"]
+  },
+  {
+    "name": "Standing Hand to Big Toe Pose",
+    "sanskrit_name": "Utthita Hasta Padangushthasana A",
+    "photo_url": "https://pocketyoga.com/assets/images/full/StandingHandToToeFull_L.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Standing", "Balancing"],
+    "followup_poses" : ["Utthita Hasta Padangushthasana B", "Tadasana", "Virabhadrasana C"]
+  },
+  {
+    "name": "Mountain Pose",
+    "sanskrit_name": "Tadasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/MountainArmsSide.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Standing"],
+    "followup_poses" : ["Urdhva Hastasana", "Padangusthasana", "Utkatasana"]
+  },
+  {
+    "name": "Pyramid Pose",
+    "sanskrit_name": "Parshvottanasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/PyramidPrayer_L.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Standing", "Forward Bend"]
+  },
+  {
+    "name": "Extended Side Angle Pose",
+    "sanskrit_name": "Utthita Parshvakonasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/WarriorIIForwardArmForward_L.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Standing", "Lateral Bend"],
+    "followup_poses" : ["Utthita Trikonasana", "Parivrtta Trikonasana", "Virabhadrasana A"]
+  },
+  {
+    "name": "Standing Splits Pose",
+    "sanskrit_name": "Urdhva Prasarita Eka Padasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/SplitsStanding_L.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Standing", "Balancing"],
+    "followup_poses" : ["Ardha Uttanasana", "Virabhadrasana C", "Ardha Chandrasana"]
+  },
+  {
+    "name": "Dancer  Pose",
+    "sanskrit_name": "Dandayamana Dhanurasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/LordOfTheDance_L.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Standing", "Balancing"],
+    "followup_poses" : ["Virabhadrasana C", "Ardha Chandrasana", "Virabhadrasana B"]
+  },
+  {
+    "name": "Tree Pose",
+    "sanskrit_name": "Vrikshasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/TreePrayer_R.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Standing", "Balancing"],
+    "followup_poses" : ["Utthita Trikonasana", "Utthita Hasta Padangushthasana A", "Ardha Chandrasana"]
+  },
+  {
+    "name": "Triangle Pose",
+    "sanskrit_name": "Utthita Trikonasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/TriangleForward_L.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Standing", "Lateral Bend"],
+    "followup_poses" : ["Parivrtta Trikonasana", "Ardha Chandrasana", "Parsvottanasana"]
+  },
+  {
+    "name": "Revolved Triangle Pose",
+    "sanskrit_name": "Parivritta Trikonasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/TriangleRevolved_L.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Standing", "Twist"],
+    "followup_poses" : ["Parivrtta Parsvakonasana", "Ardha Chandrasana", "Uttanasana"]
+  },
+  {
+    "name": "Warrior I Pose",
+    "sanskrit_name": "Virabhadrasana A",
+    "photo_url": "https://pocketyoga.com/assets/images/full/WarriorI_L.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Standing"],
+    "followup_poses" : ["Virabhadrasana B ", "Chaturanga Dandasana", "Parsvottanasana"]
+  },
+  {
+    "name": "Warrior II Pose",
+    "sanskrit_name": "Virabhadrasana B",
+    "photo_url": "https://pocketyoga.com/assets/images/full/WarriorII_L.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Standing"],
+    "followup_poses" : ["Utthita Parsvakonasana", "Ardha Chandrasana", "Utthita Trikonasana"]
+  },
+  {
+    "name": "Warrior III Pose",
+    "sanskrit_name": "Virabhadrasana C",
+    "photo_url": "https://pocketyoga.com/assets/images/full/WarriorIII_L.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Standing", "Balancing"],
+    "followup_poses" : ["Ardha Chandrasana", "Uttanasana", "Virabhadrasana A"]
+  },
+  {
+    "name": "Wide Legged Forward Bend I Pose",
+    "sanskrit_name": "Prasarita Padottanasana A",
+    "photo_url": "https://pocketyoga.com/assets/images/full/WideLeggedForwardBendI_L.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Standing", "Forward Bend"],
+    "followup_poses" : ["Parivritta Prasarita Padottanasana", "Prasarita Padottanasana B", "Parshva Prasarita Padottanasana"]
+  },
+  {
+    "name": "Wide Legged Forward Bend II Pose",
+    "sanskrit_name": "Prasarita Padottanasana B",
+    "photo_url":   "https://pocketyoga.com/assets/images/full/WideLeggedForwardBendII_L.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Standing", "Forward Bend"],
+    "followup_poses" : ["Prasarita Padottanasana C", "Parivritta Prasarita Padottanasana", "Parshva Prasarita Padottanasana"]
+  },
+  {
+    "name": "Wide Legged Forward Bend III Pose",
+    "sanskrit_name": "Prasarita Padottanasana C",
+    "photo_url": "https://pocketyoga.com/assets/images/full/WideLeggedForwardBendIII_L.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Standing", "Forward Bend"],
+    "followup_poses" : ["Prasarita Padottanasana C", "Parivritta Prasarita Padottanasana", "Parshva Prasarita Padottanasana"]
+  },
+  {
+    "name": "Wide Legged Forward Bend IV Pose",
+    "sanskrit_name": "Prasarita Padottanasana D",
+    "photo_url": "https://pocketyoga.com/assets/images/full/WideLeggedForwardBendIV_L.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Standing", "Forward Bend"],
+    "followup_poses" : ["Parshvottanasana", "Parivritta Prasarita Padottanasana", "Parshva Prasarita Padottanasana"]
+    },
+    {
+    "name": "Revolved Wide Legged Forward Bend",
+    "sanskrit_name": "Parivritta Prasarita Padottanasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/WideLeggedForwardBendRevolved_L.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Standing", "Forward Bend"],
+    "followup_poses" : ["Adho Mukha Shvanasana", "Uttanasana", "Parshvottanasana"]
+  },
+  {
+    "name": "Side Wide Legged Forward Bend",
+    "sanskrit_name": "Parshva Prasarita Padottanasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/WideLeggedForwardBendSide_L.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Standing", "Forward Bend"],
+    "followup_poses" : ["Adho Mukha Shvanasana", "Uttanasana", "Parivrtta Prasarita Padottanasana"]
+  },
+  {
+    "name": "Archer's Pose",
+    "sanskrit_name": "Akarna Dhanurasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Archer_R.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Seated"],
+    "followup_poses" : ["Paschimottanasana", "Janu Shirshasana A"]
+  },
+  {
+    "name": "Boat Pose",
+    "sanskrit_name": "Navasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/BoatFull.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Seated"],
+    "followup_poses" : ["Lolasana", "Chaturanga Dandasana"]
+  },
+  {
+    "name": "Bound Angle Pose",
+    "sanskrit_name": "Baddha Konasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/BoundAngle.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Seated"]
+  },
+    {
+    "name": "Both Feet Behind the Head I Pose",
+    "sanskrit_name": "Dvi Pada Shirshasana A",
+    "photo_url": "https://pocketyoga.com/assets/images/full/FootBehindHeadTwoLegged.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Seated"]
+  },
+  {
+    "name": "Cow Face Pose",
+    "sanskrit_name": "Gomukhasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/KneePileBind_L.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Seated"]
+  },
+  {
+    "name": "Easy Pose",
+    "sanskrit_name": "Sukhasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Easy.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Seated"]
+  },
+  {
+    "name": "Fire Log Pose",
+    "sanskrit_name": "Agnistambhasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/FireLog_L.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Seated"]
+  },
+  {
+    "name": "Embryo in Womb Pose",
+    "sanskrit_name": "Garbha Pindasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/EmbryoWomb.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Seated"]
+  },
+  {
+    "name": "Foot Behind the Head I Pose",
+    "sanskrit_name": "Eka Pada Shirshasana A",
+    "photo_url": "https://pocketyoga.com/assets/images/full/FootBehindHead_R.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Seated"]
+  },
+  {
+    "name": "Foot Behind the Head II Pose",
+    "sanskrit_name": "Eka Pada Shirshasana B ",
+    "photo_url": "https://pocketyoga.com/assets/images/full/FootBehindHeadForward_R.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Seated", "Forward Bend"]
+  },
+  {
+    "name": "Seated Forward Bend I Pose",
+    "sanskrit_name": "Paschimottanasana A",
+    "photo_url": "https://pocketyoga.com/assets/images/full/SeatedForwardBend.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Seated", "Forward Bend"]
+  },
+  {
+    "name": "Seated Forward Bend II Pose",
+    "sanskrit_name": "Paschimottanasana B",
+    "photo_url": "https://pocketyoga.com/assets/images/full/SeatedForwardBendII.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Seated", "Forward Bend"]
+  },
+  {
+    "name": "Seated Forward Bend III Pose",
+    "sanskrit_name": "Paschimottanasana C",
+    "photo_url": "https://pocketyoga.com/assets/images/full/SeatedForwardBendIII.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Seated", "Forward Bend"]
+  },
+    {
+    "name": "Seated Forward Bend IV Pose",
+    "sanskrit_name": "Paschimottanasana D",
+    "photo_url": "https://pocketyoga.com/assets/images/full/SeatedForwardBendIV.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Seated", "Forward Bend"]
+  },
+  {
+    "name": "Seated Half Bound Lotus Forward Bend Pose",
+    "sanskrit_name": "Ardha Baddha Padma Paschimottanasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/SeatedForwardBendHalfLotus_R.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Seated", "Forward Bend"]
+  },
+  {
+    "name": "Seated Three Limbed Forward Bend Pose",
+    "sanskrit_name": "Tiryan Mukha Eka Pada Paschimottanasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/SeatedForwardBendThreeLimbs_R.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Seated", "Forward Bend"]
+  },
+  {
+    "name": "Garland Pose",
+    "sanskrit_name": "Malasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/GarlandSideways_L.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Seated"]
+  },
+  {
+    "name": "Seated Gate Pose",
+    "sanskrit_name": "Parighasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/SeatedGate_R.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Seated", "Lateral Bend"]
+  },
+  {
+    "name": "Head to Knee I Pose",
+    "sanskrit_name": "Janu Shirshasana A",
+    "photo_url": "https://pocketyoga.com/assets/images/full/HeadToKnee_R.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Seated", "Forward Bend"]
+  },
+  {
+    "name": "Head to Knee II Pose",
+    "sanskrit_name": "Janu Shirshasana B",
+    "photo_url": "https://pocketyoga.com/assets/images/full/HeadToKneeII_R.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Seated", "Forward Bend"]
+  },
+  {
+    "name": "Head to Knee III Pose",
+    "sanskrit_name": "Janu Shirshasana C",
+    "photo_url": "https://pocketyoga.com/assets/images/full/HeadToKneeIII_R.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Seated", "Forward Bend"]
+  },
+  {
+    "name": "Hero Pose",
+    "sanskrit_name": "Virasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Hero.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Seated"]
+  },
+  {
+    "name": "Heron Pose",
+    "sanskrit_name": "Kraunchasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Heron_R.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Seated"]
+  },
+    {
+    "name": "Noose Pose",
+    "sanskrit_name": "Pashasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/SeatedOnHeelsTwistBound_R.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Seated ", "Twist"]
+  },
+  {
+    "name": "Half Pigeon Pose",
+    "sanskrit_name": "Ardha Kapotasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/PigeonHalf_L.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Seated ", "Back Bend"]
+  },
+  {
+    "name": "Lotus Pose",
+    "sanskrit_name": "Padmasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/LotusFull.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Seated"]
+  },
+  {
+    "name": "Sage Marichi's I Pose",
+    "sanskrit_name": "Marichyasana A",
+    "photo_url": "https://pocketyoga.com/assets/images/full/MarichiITraditional_R.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Seated ", "Forward Bend"]
+  },
+  {
+    "name": "Sage Marichi's II Pose",
+    "sanskrit_name": "Marichyasana B",
+    "photo_url": "https://pocketyoga.com/assets/images/full/MarichiIITraditional_R.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Seated ", "Forward Bend"]
+  },
+  {
+    "name": "Sage Marichi's III Pose",
+    "sanskrit_name": "Marichyasana C",
+    "photo_url": "https://pocketyoga.com/assets/images/full/MarichiIIITraditional_R.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Seated ", "Twist"]
+  },
+  {
+    "name": "Sage Marichi's IV Pose",
+    "sanskrit_name": "Marichyasana D",
+    "photo_url": "https://pocketyoga.com/assets/images/full/MarichiIVTraditional_R.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Seated ", "Twist"]
+  },
+  {
+    "name": "Side Lunge Pose",
+    "sanskrit_name": "Skandasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/SideLunge_L.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Seated", "Balancing"]
+  },
+  {
+    "name": " Pose",
+    "sanskrit_name": "",
+    "photo_url": "",
+    "expertise_level": "",
+    "pose_type": ["", ""]
+  },
+  {
+    "name": "Front Splits Pose",
+    "sanskrit_name": "Hanumanasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/SplitsFront_L.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Seated"]
+  },
+    {
+    "name": "Half Splits Pose",
+    "sanskrit_name": "Ardha Hanumanasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/PyramidKneeling_L.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Forward Bend"]
+  },
+  {
+    "name": "Wide Splits Pose",
+    "sanskrit_name": "Samakonasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/SplitsWide.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Seated"]
+  },
+  {
+    "name": "Staff Pose",
+    "sanskrit_name": "Dandasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Staff.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Seated"]
+  },
+  {
+    "name": "Thunderbolt Pose",
+    "sanskrit_name": "Vajrasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Thunderbolt.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Seated"]
+  },
+  {
+    "name": "Toe Stand Pose",
+    "sanskrit_name": "Padangushthasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/ToeStand_L.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Seated", "Balancing"]
+  },
+  {
+    "name": "Banana Pose",
+    "sanskrit_name": "Supta Nitambasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Banana_R.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Supine"]
+  },
+  {
+    "name": "Bridge Pose",
+    "sanskrit_name": "Setu Bandha Sarvangasana ",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Bridge.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Supine", "Back Bend"]
+  },
+  {
+    "name": "Corpse Pose",
+    "sanskrit_name": "Shavasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Corpse.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Supine"]
+  },
+  {
+    "name": "Fish Pose",
+    "sanskrit_name": "Matsyasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/FishPreparation.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Supine", "Back Bend"]
+  },
+  {
+    "name": "Supine Foot to Head Pose",
+    "sanskrit_name": "Supta Trivikramasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/SupineTrivikrama_L.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Supine"]
+  },
+    {
+    "name": "Extended Supine Hand to Big Toe Pose",
+    "sanskrit_name": "Supta Padangushthasana B",
+    "photo_url": "https://pocketyoga.com/assets/images/full/SupineHandToToeExtended_L.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Supine"]
+  },
+  {
+    "name": "Supine Hand to Big Toe Pose",
+    "sanskrit_name": "Supta Padangushthasana A",
+    "photo_url": "https://pocketyoga.com/assets/images/full/SupineHandToToeFull_L.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Supine"]
+  },
+  {
+    "name": "Happy Baby Pose",
+    "sanskrit_name": "Ananda Balasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/BlissfulBaby.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Supine"]
+  },
+  {
+    "name": "Sleeping Yogi Pose",
+    "sanskrit_name": "Yoga Nidrasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/YogicSleep.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Supine"]
+  },
+  {
+    "name": "Supine Spinal Twist Pose",
+    "sanskrit_name": "Supta Matsyendrasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/SupineSpinalTwist_L.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Supine", "Twist"]
+  },
+  {
+    "name": "Supine Straddle Pose",
+    "sanskrit_name": "Supta Samakonasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/SupineStraddle.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Supine"]
+  },
+  {
+    "name": "Waterfall Pose",
+    "sanskrit_name": "Supta Dandasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/CorpseDoubleLegRaise.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Supine"]
+  },
+  {
+    "name": "Wind Removing Pose",
+    "sanskrit_name": "Pavanamuktasan",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Turtle.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Supine"]
+  },
+  {
+    "name": "Bow Pose",
+    "sanskrit_name": "Dhanurasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Bow.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Prone", "Back Bend"]
+  },
+  {
+    "name": "Half Bow Pose",
+    "sanskrit_name": "Ardha Dhanurasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/ProneBowHalf_R.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Prone", "Back Bend"]
+  },
+  {
+    "name": "Child's Pose",
+    "sanskrit_name": "Balasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/ChildTraditional.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Prone "]
+  },
+  {
+    "name": "Cobra Pose",
+    "sanskrit_name": "Bhujangasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/CobraFull.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Prone", "Back Bend"]
+  },
+  {
+    "name": "Reverse Corpse Pose",
+    "sanskrit_name": "Advasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/CorpseFrontArmsForward.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Prone"]
+  },
+  {
+    "name": "Puppy Pose",
+    "sanskrit_name": "Uttana Shishosana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/PuppyExtended.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Prone", "Back Bend"]
+  },
+  {
+    "name": "Frog Pose",
+    "sanskrit_name": "Bhekasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/FrogTraditional.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Prone", "Back Bend"]
+  },
+    {
+    "name": "Locust I Pose",
+    "sanskrit_name": "Shalabhasana A",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Locust.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Prone", "Back Bend"]
+  },
+  {
+    "name": "Locust II Pose",
+    "sanskrit_name": "Shalabhasana B",
+    "photo_url": "https://pocketyoga.com/assets/images/full/LocustII.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Prone", "Back Bend"]
+  },
+  {
+    "name": "Locust III Pose",
+    "sanskrit_name": "Shalabhasana C",
+    "photo_url": "https://pocketyoga.com/assets/images/full/LocustIII.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Prone", "Back Bend"]
+  },
+  {
+    "name": "Sage Gheranda's Pose",
+    "sanskrit_name": "Gherandasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/GherandaI_L.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Prone", "Back Bend"]
+  },
+  {
+    "name": "Snake Pose",
+    "sanskrit_name": "Sarpasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Snake.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Prone", "Back Bend"]
+  },
+  {
+    "name": "Sphinx Pose",
+    "sanskrit_name": "Salamba Bhujangasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Sphinx.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Prone"]
+  },
+  {
+    "name": "Tortoise Pose",
+    "sanskrit_name": "Kurmasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/SupineTortoise.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Prone", "Forward Bend"]
+  },
+  {
+    "name": "Table Pose",
+    "sanskrit_name": "https://pocketyoga.com/assets/images/full/BoxNeutral.png",
+    "photo_url": "https://pocketyoga.com/assets/images/full/BoxNeutral.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Arm Leg Support"]
+  },
+  {
+    "name": "Camel Pose",
+    "sanskrit_name": "Ushtrasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Camel.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Arm Leg Support", "Back Bend"]
+  },
+  {
+    "name": "Cat Pose",
+    "sanskrit_name": "Marjariasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Cat.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Arm Leg Support", "Forward Bend"]
+  },
+  {
+    "name": "Cow Pose",
+    "sanskrit_name": "Bitilasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Dog.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Arm Leg Support", "Back Bend"]
+  },
+  {
+    "name": "Dolphin Pose",
+    "sanskrit_name": "Ardha Pincha Mayurasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Dolphin.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Arm Leg Support"]
+  },
+  {
+    "name": "Downward-Facing Dog Pose",
+    "sanskrit_name": "Adho Mukha Shvanasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/DownwardDog.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Arm Leg Support", "Forward Bend"]
+  },
+  {
+    "name": "Eight Point Pose",
+    "sanskrit_name": "Ashtangasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/EightPoint.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Arm Leg Support"]
+  },
+  {
+    "name": "Humble Flamingo Pose",
+    "sanskrit_name": "Vineeta Rajahamsasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/FlamingoHumble_L.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Arm Leg Support", "Forward Bend", "Balancing"]
+  },
+  {
+    "name": "Gate Pose",
+    "sanskrit_name": "Parighasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Gate_R.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Arm Leg Support", "Lateral Bend"]
+  },
+  {
+    "name": "Horse Pose",
+    "sanskrit_name": "Vatayanasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Horse_R.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Arm Leg Support", "Balancing"]
+  },
+  {
+    "name": "Lizard Pose",
+    "sanskrit_name": "Uttana Pristhasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Lizard_L.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Arm Leg Support"]
+  },
+  {
+    "name": "Lunge Pose",
+    "sanskrit_name": "Utthita Ashwa Sanchalanasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Lunge_L.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Arm Leg Support"]
+  },
+  {
+    "name": "Crooked Monkey Pose",
+    "sanskrit_name": "Vakra Hanumanasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/CrookedMonkey_R.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Arm Leg Support", "Twist"]
+  },
+  {
+    "name": "Pigeon Pose",
+    "sanskrit_name": "Kapotasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Pigeon.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Arm Leg Support", "Back Bend"]
+  },
+  {
+    "name": "One Legged King Pigeon Pose",
+    "sanskrit_name": "Eka Pada Raja Kapotasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/PigeonKing_L.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Seated", "Back Bend"]
+  },
+  {
+    "name": "Plank Pose",
+    "sanskrit_name": "Phalakasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Plank.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Arm Leg Support"]
+  },
+  {
+    "name": "Upward Plank Pose",
+    "sanskrit_name": "Purvottanasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/PlankUpward.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Arm Leg Support", "Back Bend"]
+  },
+  {
+    "name": "Four Limbed Staff Pose",
+    "sanskrit_name": "Chaturanga Dandasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/FourLimbedStaff.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Arm Leg Support"]
+  },
+  {
+    "name": "Flying Warrior Pose",
+    "sanskrit_name": "Vishvamitrasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/VisvamitraFull_L.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Arm Leg Support", "Balancing"]
+  },
+  {
+    "name": "Side Plank Pose",
+    "sanskrit_name": "Vasishthasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/PlankSide_R.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Arm Leg Support", "Balancing"]
+  },
+  {
+    "name": "Extended Side Plank Pose",
+    "sanskrit_name": "Utthita Vasishthasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/PlankSideExtended_R.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Arm Leg Support", "Balancing"]
+  },
+  {
+    "name": "Inverted Staff Pose",
+    "sanskrit_name": "Dvi Pada Viparita Dandasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/StaffInverted.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Arm Leg Support", "Back Bend"]
+  },
+  {
+    "name": "Little Thunderbolt Pose",
+    "sanskrit_name": "Laghu Vajrasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/LittleThunderbolt.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Arm Leg Support", "Back Bend"]
+  },
+  {
+    "name": "Tiger Pose",
+    "sanskrit_name": "Vyaghrasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Tiger_L.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Arm Leg Support", "Back Bend"]
+  },
+  {
+    "name": "Upward-Facing Dog Pose",
+    "sanskrit_name": "Urdhva Mukha Shvanasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/UpwardDog.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Arm Leg Support"]
+  },
+  {
+    "name": "Wheel Pose",
+    "sanskrit_name": "Urdhva Dhanurasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Wheel.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Arm Leg Support", "Back Bend"]
+  },
+  {
+    "name": "Wild Thing Pose",
+    "sanskrit_name": "Chamatkarasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/WildThing_R.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Arm Leg Support", "Back Bend"]
+  },
+  {
+    "name": "Both Feet Behind the Head II Pose",
+    "sanskrit_name": "Dvi Pada Shirshasana B",
+    "photo_url": "https://pocketyoga.com/assets/images/full/FootBehindHeadTwoLeggedElevated.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Arm Balance"]
+  },
+  {
+    "name": "Chin Stand Pose",
+    "sanskrit_name": "Ganda Bherundasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/ChinStand.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Arm Balance", "Inversion", "Back Bend"]
+  },
+  {
+    "name": "Crane Pose",
+    "sanskrit_name": "Bakasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Crane.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Arm Balance"]
+  },
+  {
+    "name": "Crow Pose",
+    "sanskrit_name": "Kakasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Crow.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Arm Balance"]
+  },
+  {
+    "name": "Deaf Man's Pose",
+    "sanskrit_name": "Karnapidasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/DeafMan.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Inversion", "Forward Bend"]
+  },
+  {
+    "name": "Eight Angle Pose",
+    "sanskrit_name": "Ashtavakrasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/EightAngle_R.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Arm Balance"]
+  },
+  {
+    "name": "Elbow Balance Pose",
+    "sanskrit_name": "Shayanasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/RelaxedStance.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Arm Balance", "Inversion"]
+  },
+  {
+    "name": "Elephant Trunk Pose",
+    "sanskrit_name": "Eka Hasta Bhujasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/ElephantTrunk_R.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Arm Balance"]
+  },
+  {
+    "name": "Firefly Pose",
+    "sanskrit_name": "Tittibhasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Firefly.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Arm Balance"]
+  },
+  {
+    "name": "Floating Stick Pose",
+    "sanskrit_name": "Brahmacharyasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/FloatingStick.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Arm Balance"]
+  },
+  {
+    "name": "Flying Man Pose",
+    "sanskrit_name": "Eka Pada Koundinyasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/LungeHandsOnMatFlying_R.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Arm Balance"]
+  },
+  {
+    "name": "Revolved Flying Man Pose",
+    "sanskrit_name": "Parivritta Eka Pada Koundinyasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/FlyingManRevolved_R.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Arm Balance", "Twist"]
+  },
+  {
+    "name": "Two Legged Sage Koundinya's Pose",
+    "sanskrit_name": "Dvi Pada Koundinyasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/CrowSideExtended_R.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Arm Balance"]
+  },
+  {
+    "name": "Side Crow Pose",
+    "sanskrit_name": "Parshva Bakasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/CrowSide_R.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Arm Balance", "Twist"]
+  },
+  {
+    "name": "Forearm Balance Pose",
+    "sanskrit_name": "Pincha Mayurasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/FeatheredPeacock.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Arm Balance", "Inversion"]
+  },
+  {
+    "name": "Dragonfly  Pose",
+    "sanskrit_name": "Maksikanagasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Grasshopper_L.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Arm Balance"]
+  },
+  {
+    "name": "Handstand Pose",
+    "sanskrit_name": "Adho Mukha Vrikshasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Handstand.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Arm Balance", "Inversion"]
+  },
+  {
+    "name": "Supported Headstand Pose",
+    "sanskrit_name": "Salamba Shirshasana A",
+    "photo_url": "https://pocketyoga.com/assets/images/full/HeadstandSupported.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Arm Balance", "Inversion"]
+  },
+  {
+    "name": "Tripod Headstand Pose",
+    "sanskrit_name": "Salamba Shirshasana B",
+    "photo_url": "https://pocketyoga.com/assets/images/full/HeadstandTripod.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Arm Balance", "Inversion"]
+  },
+  {
+    "name": "Flying Lizard Pose",
+    "sanskrit_name": "Uddayana Uttana Pristhasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/FlyingLizard_L.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Arm Balance"]
+  },
+  {
+    "name": "Peacock Pose",
+    "sanskrit_name": "Mayurasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Peacock.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Arm Balance"]
+  },
+  {
+    "name": "Pendant Pose",
+    "sanskrit_name": "Lolasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Pendant.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Arm Balance"]
+  },
+  {
+    "name": "Flying Pigeon Pose",
+    "sanskrit_name": "Eka Pada Galavasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/PigeonFlying_L.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Arm Balance", "Twist"]
+  },
+  {
+    "name": "Plow Pose",
+    "sanskrit_name": "Halasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Plow.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Inversion", "Forward Bend"]
+  },
+  {
+    "name": "Rooster Pose",
+    "sanskrit_name": "Kukkutasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Rooster.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Arm Balance"]
+  },
+  {
+    "name": "Scorpion Pose",
+    "sanskrit_name": "Vrischikasana A",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Scorpion.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Inversion", "Back Bend"]
+  },
+  {
+    "name": "Shoulder Pressing Pose",
+    "sanskrit_name": "Bhujapidasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/ScaleForward.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Arm Balance"]
+  },
+  {
+    "name": "Shoulder Stand with Lotus Legs Pose",
+    "sanskrit_name": "Urdhva Padmasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/ShoulderstandLotus.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Inversion"]
+  },
+  {
+    "name": "Supported Shoulder Stand Pose",
+    "sanskrit_name": "Salamba Sarvangasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/ShoulderstandSupported.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Inversion"]
+  },
+  {
+    "name": "Bound Revolved Chair Pose",
+    "sanskrit_name": "Parivritta Utkatasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/ChairTwistBind_L.png",
+    "expertise_level": "Intermediate",
+    "pose_type": ["Standing", "Twist"]
+  }
+]
