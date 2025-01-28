@@ -1,0 +1,23 @@
+[
+ {
+    "name": "Big Toe Pose",
+    "sanskrit_name": "Padangusthasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/ForwardBendBigToe.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Standing", "Forward Bend"]
+  },
+  {
+    "name": "Gorilla Pose",
+    "sanskrit_name": "Padahastasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/Gorilla.png",
+    "expertise_level": "Beginner",
+    "pose_type": ["Standing", "Forward Bend"]
+  },
+  {
+    "name": "Bird of Paradise Pose",
+    "sanskrit_name": "Svarga Dvijasana",
+    "photo_url": "https://pocketyoga.com/assets/images/full/ChairTwistBindUp_L.png",
+    "expertise_level": "Advanced",
+    "pose_type": ["Standing", "Balancing"]
+  }
+]
