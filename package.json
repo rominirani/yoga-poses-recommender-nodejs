@@ -1,0 +1,29 @@
+{
+  "name": "yoga-description-generator",
+  "version": "1.0.0",
+  "description": "Generates descriptions for yoga poses using Gemini API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "generate-descriptions": "node generate-descriptions.js",
+    "import-data": "node import-data.js",
+    "search-data": "node search-data.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/firestore": "^7.11.0",
+    "@google-cloud/text-to-speech": "^5.8.0",
+    "@google-cloud/vertexai": "^1.9.2",
+    "@langchain/core": "^0.3.36",
+    "@langchain/google-vertexai": "^0.1.8",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "p-retry": "^6.2.1",
+    "yargs": "^17.7.2"
+  },
+  "type": "module"
+}
