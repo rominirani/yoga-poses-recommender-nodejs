@@ -38,15 +38,6 @@ async function callGemini(poseName, sanskritName, expertiseLevel, poseTypes) {
       throw error; // Re-throw the error for handling in the calling function
     }
   }
-  
-
-// Initialize Vertex AI
-// const vertexAI = new VertexAI({ project: process.env.PROJECT_ID, location: process.env.LOCATION });
-
-// Instantiate the model
-//const generativeModel = vertexAI.getGenerativeModel({
-//  model: process.env.GEMINI_MODEL_NAME,
-//});
 
 // Configure logging (you can use a library like 'winston' for more advanced logging)
 const logger = {
